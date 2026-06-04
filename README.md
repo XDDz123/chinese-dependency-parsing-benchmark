@@ -5,7 +5,7 @@ This repository hosts code for the visualization interface that accompanies the 
 ## Data Availability Statement
 <!--A live demonstration of the visualization interface is available at [[HERE](http://47.80.13.29/)].  -->
 The full dataset can be accessed via [[github.com](https://github.com/jungyeul/zh_gsdsimp)].  
-The full tranined models can be accessed via [[zenodo.org](https://zenodo.org/records/15096936)]](https://doi.org/10.5281/zenodo.17693288)].  
+The full tranined models can be accessed via [[zenodo.org](https://zenodo.org/records/15096936)].  
 All derived resources are released under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license, consistent with the licensing of the original Universal Dependencies Chinese treebank.
 
 ## Program requirements
